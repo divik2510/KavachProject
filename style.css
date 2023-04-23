@@ -1,0 +1,11 @@
+img{
+    padding: 25px;
+    width: 400px;
+    height: 350px;
+    background-repeat: no-repeat;
+    background-size: auto;
+}
+
+body{
+    background-color: black;
+}
